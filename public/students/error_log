@@ -1,0 +1,390 @@
+[14-Nov-2024 17:30:07 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[14-Nov-2024 17:30:07 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[14-Nov-2024 17:30:08 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[14-Nov-2024 17:30:08 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[14-Nov-2024 17:30:08 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[14-Nov-2024 17:30:08 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[14-Nov-2024 17:30:08 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[14-Nov-2024 17:30:08 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[14-Nov-2024 17:30:08 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[14-Nov-2024 17:30:08 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[14-Nov-2024 17:30:08 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[14-Nov-2024 17:30:08 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[14-Nov-2024 17:30:08 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[14-Nov-2024 17:30:08 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[14-Nov-2024 17:30:10 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[14-Nov-2024 17:30:10 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[14-Nov-2024 17:30:11 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[14-Nov-2024 17:30:11 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[14-Nov-2024 17:30:11 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[14-Nov-2024 17:30:11 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[14-Nov-2024 17:30:11 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[14-Nov-2024 17:30:11 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[14-Nov-2024 17:30:11 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[14-Nov-2024 17:30:11 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[14-Nov-2024 17:30:11 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[14-Nov-2024 17:30:11 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[14-Nov-2024 17:30:11 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[14-Nov-2024 17:30:11 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[15-Nov-2024 13:13:46 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[15-Nov-2024 13:13:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[15-Nov-2024 13:13:47 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[15-Nov-2024 13:13:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[15-Nov-2024 13:13:47 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[15-Nov-2024 13:13:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[15-Nov-2024 13:13:47 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[15-Nov-2024 13:13:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[15-Nov-2024 13:13:47 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[15-Nov-2024 13:13:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[15-Nov-2024 13:13:47 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[15-Nov-2024 13:13:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[15-Nov-2024 13:13:47 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[15-Nov-2024 13:13:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[15-Nov-2024 13:13:50 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[15-Nov-2024 13:13:50 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[15-Nov-2024 13:13:52 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[15-Nov-2024 13:13:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[15-Nov-2024 13:13:52 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[15-Nov-2024 13:13:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[15-Nov-2024 13:13:52 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[15-Nov-2024 13:13:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[15-Nov-2024 13:13:52 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[15-Nov-2024 13:13:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[15-Nov-2024 13:13:52 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[15-Nov-2024 13:13:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[15-Nov-2024 13:13:52 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[15-Nov-2024 13:13:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[17-Nov-2024 18:56:59 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[17-Nov-2024 18:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[17-Nov-2024 18:57:00 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[17-Nov-2024 18:57:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[17-Nov-2024 18:57:00 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[17-Nov-2024 18:57:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[17-Nov-2024 18:57:00 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[17-Nov-2024 18:57:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[17-Nov-2024 18:57:00 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[17-Nov-2024 18:57:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[17-Nov-2024 18:57:00 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[17-Nov-2024 18:57:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[17-Nov-2024 18:57:00 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[17-Nov-2024 18:57:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[17-Nov-2024 18:57:04 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[17-Nov-2024 18:57:04 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[17-Nov-2024 18:57:05 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[17-Nov-2024 18:57:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[17-Nov-2024 18:57:05 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[17-Nov-2024 18:57:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[17-Nov-2024 18:57:05 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[17-Nov-2024 18:57:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[17-Nov-2024 18:57:05 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[17-Nov-2024 18:57:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[17-Nov-2024 18:57:05 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[17-Nov-2024 18:57:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[17-Nov-2024 18:57:05 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[17-Nov-2024 18:57:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[24-Nov-2024 20:05:48 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[24-Nov-2024 20:05:48 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[24-Nov-2024 20:05:49 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[24-Nov-2024 20:05:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[24-Nov-2024 20:05:49 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[24-Nov-2024 20:05:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[24-Nov-2024 20:05:49 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[24-Nov-2024 20:05:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[24-Nov-2024 20:05:49 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[24-Nov-2024 20:05:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[24-Nov-2024 20:05:49 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[24-Nov-2024 20:05:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[24-Nov-2024 20:05:49 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[24-Nov-2024 20:05:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[24-Nov-2024 20:05:50 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[24-Nov-2024 20:05:50 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[24-Nov-2024 20:05:52 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[24-Nov-2024 20:05:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[24-Nov-2024 20:05:52 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[24-Nov-2024 20:05:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[24-Nov-2024 20:05:52 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[24-Nov-2024 20:05:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[24-Nov-2024 20:05:52 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[24-Nov-2024 20:05:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[24-Nov-2024 20:05:52 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[24-Nov-2024 20:05:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[24-Nov-2024 20:05:52 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[24-Nov-2024 20:05:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[25-Nov-2024 17:25:37 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[25-Nov-2024 17:25:37 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[25-Nov-2024 17:25:39 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[25-Nov-2024 17:25:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[25-Nov-2024 17:25:39 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[25-Nov-2024 17:25:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[25-Nov-2024 17:25:39 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[25-Nov-2024 17:25:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[25-Nov-2024 17:25:39 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[25-Nov-2024 17:25:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[25-Nov-2024 17:25:39 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[25-Nov-2024 17:25:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[25-Nov-2024 17:25:39 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[25-Nov-2024 17:25:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[25-Nov-2024 17:25:48 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[25-Nov-2024 17:25:48 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[25-Nov-2024 17:25:48 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[25-Nov-2024 17:25:48 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[25-Nov-2024 17:25:48 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[25-Nov-2024 17:25:48 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[25-Nov-2024 17:25:48 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[25-Nov-2024 17:25:48 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[25-Nov-2024 17:25:48 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[25-Nov-2024 17:25:48 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[25-Nov-2024 17:25:48 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[25-Nov-2024 17:25:48 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[26-Nov-2024 16:09:54 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[26-Nov-2024 16:09:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[26-Nov-2024 16:09:57 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[26-Nov-2024 16:09:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[26-Nov-2024 16:09:57 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[26-Nov-2024 16:09:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[26-Nov-2024 16:09:57 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[26-Nov-2024 16:09:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[26-Nov-2024 16:09:57 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[26-Nov-2024 16:09:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[26-Nov-2024 16:09:57 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[26-Nov-2024 16:09:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[26-Nov-2024 16:09:57 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[26-Nov-2024 16:09:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[26-Nov-2024 16:09:59 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[26-Nov-2024 16:09:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[26-Nov-2024 16:09:59 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[26-Nov-2024 16:09:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[26-Nov-2024 16:09:59 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[26-Nov-2024 16:09:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[26-Nov-2024 16:09:59 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[26-Nov-2024 16:09:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[26-Nov-2024 16:09:59 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[26-Nov-2024 16:09:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[26-Nov-2024 16:09:59 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[26-Nov-2024 16:09:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[26-Nov-2024 16:09:59 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[26-Nov-2024 16:09:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[27-Nov-2024 14:24:53 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[27-Nov-2024 14:24:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[27-Nov-2024 14:24:54 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[27-Nov-2024 14:24:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[27-Nov-2024 14:24:54 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[27-Nov-2024 14:24:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[27-Nov-2024 14:24:54 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[27-Nov-2024 14:24:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[27-Nov-2024 14:24:54 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[27-Nov-2024 14:24:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[27-Nov-2024 14:24:54 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[27-Nov-2024 14:24:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[27-Nov-2024 14:24:54 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[27-Nov-2024 14:24:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[27-Nov-2024 14:24:56 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[27-Nov-2024 14:24:56 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[27-Nov-2024 14:24:57 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[27-Nov-2024 14:24:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[27-Nov-2024 14:24:57 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[27-Nov-2024 14:24:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[27-Nov-2024 14:24:57 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[27-Nov-2024 14:24:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[27-Nov-2024 14:24:57 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[27-Nov-2024 14:24:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[27-Nov-2024 14:24:57 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[27-Nov-2024 14:24:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[27-Nov-2024 14:24:57 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[27-Nov-2024 14:24:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[28-Nov-2024 12:37:18 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[28-Nov-2024 12:37:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[28-Nov-2024 12:37:25 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[28-Nov-2024 12:37:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[28-Nov-2024 12:37:25 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[28-Nov-2024 12:37:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[28-Nov-2024 12:37:25 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[28-Nov-2024 12:37:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[28-Nov-2024 12:37:25 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[28-Nov-2024 12:37:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[28-Nov-2024 12:37:25 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[28-Nov-2024 12:37:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[28-Nov-2024 12:37:25 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[28-Nov-2024 12:37:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[28-Nov-2024 12:37:28 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[28-Nov-2024 12:37:28 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[28-Nov-2024 12:37:29 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[28-Nov-2024 12:37:29 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[28-Nov-2024 12:37:29 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[28-Nov-2024 12:37:29 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[28-Nov-2024 12:37:29 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[28-Nov-2024 12:37:29 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[28-Nov-2024 12:37:29 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[28-Nov-2024 12:37:29 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[28-Nov-2024 12:37:29 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[28-Nov-2024 12:37:29 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[28-Nov-2024 12:37:29 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[28-Nov-2024 12:37:29 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[30-Nov-2024 03:22:22 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[30-Nov-2024 03:22:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[30-Nov-2024 03:22:23 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[30-Nov-2024 03:22:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[30-Nov-2024 03:22:23 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[30-Nov-2024 03:22:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[30-Nov-2024 03:22:23 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[30-Nov-2024 03:22:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[30-Nov-2024 03:22:23 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[30-Nov-2024 03:22:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[30-Nov-2024 03:22:23 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[30-Nov-2024 03:22:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[30-Nov-2024 03:22:23 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[30-Nov-2024 03:22:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[30-Nov-2024 03:22:24 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[30-Nov-2024 03:22:24 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[30-Nov-2024 03:22:25 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[30-Nov-2024 03:22:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[30-Nov-2024 03:22:25 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[30-Nov-2024 03:22:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[30-Nov-2024 03:22:25 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[30-Nov-2024 03:22:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[30-Nov-2024 03:22:25 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[30-Nov-2024 03:22:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[30-Nov-2024 03:22:25 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[30-Nov-2024 03:22:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[30-Nov-2024 03:22:25 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[30-Nov-2024 03:22:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[02-Dec-2024 08:14:18 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[02-Dec-2024 08:14:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[02-Dec-2024 08:14:22 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[02-Dec-2024 08:14:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[02-Dec-2024 08:14:22 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[02-Dec-2024 08:14:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[02-Dec-2024 08:14:22 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[02-Dec-2024 08:14:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[02-Dec-2024 08:14:22 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[02-Dec-2024 08:14:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[02-Dec-2024 08:14:22 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[02-Dec-2024 08:14:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[02-Dec-2024 08:14:22 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[02-Dec-2024 08:14:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[02-Dec-2024 08:14:24 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[02-Dec-2024 08:14:24 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[02-Dec-2024 08:14:25 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[02-Dec-2024 08:14:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[02-Dec-2024 08:14:25 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[02-Dec-2024 08:14:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[02-Dec-2024 08:14:25 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[02-Dec-2024 08:14:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[02-Dec-2024 08:14:25 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[02-Dec-2024 08:14:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[02-Dec-2024 08:14:25 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[02-Dec-2024 08:14:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[02-Dec-2024 08:14:25 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[02-Dec-2024 08:14:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[05-Dec-2024 06:14:32 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[05-Dec-2024 06:14:32 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[05-Dec-2024 06:14:33 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[05-Dec-2024 06:14:33 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[05-Dec-2024 06:14:33 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[05-Dec-2024 06:14:33 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[05-Dec-2024 06:14:33 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[05-Dec-2024 06:14:33 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[05-Dec-2024 06:14:33 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[05-Dec-2024 06:14:33 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[05-Dec-2024 06:14:33 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[05-Dec-2024 06:14:33 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[05-Dec-2024 06:14:33 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[05-Dec-2024 06:14:33 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[05-Dec-2024 06:14:35 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[05-Dec-2024 06:14:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[05-Dec-2024 06:14:35 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[05-Dec-2024 06:14:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[05-Dec-2024 06:14:35 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[05-Dec-2024 06:14:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[05-Dec-2024 06:14:35 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[05-Dec-2024 06:14:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[05-Dec-2024 06:14:35 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[05-Dec-2024 06:14:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[05-Dec-2024 06:14:35 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[05-Dec-2024 06:14:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[05-Dec-2024 06:14:35 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[05-Dec-2024 06:14:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[08-Dec-2024 08:55:51 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[08-Dec-2024 08:55:51 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[08-Dec-2024 08:55:53 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[08-Dec-2024 08:55:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[08-Dec-2024 08:55:53 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[08-Dec-2024 08:55:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[08-Dec-2024 08:55:53 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[08-Dec-2024 08:55:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[08-Dec-2024 08:55:53 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[08-Dec-2024 08:55:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[08-Dec-2024 08:55:53 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[08-Dec-2024 08:55:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[08-Dec-2024 08:55:53 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[08-Dec-2024 08:55:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[08-Dec-2024 08:55:55 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[08-Dec-2024 08:55:55 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[08-Dec-2024 08:55:56 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[08-Dec-2024 08:55:56 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[08-Dec-2024 08:55:56 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[08-Dec-2024 08:55:56 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[08-Dec-2024 08:55:56 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[08-Dec-2024 08:55:56 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[08-Dec-2024 08:55:56 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[08-Dec-2024 08:55:56 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[08-Dec-2024 08:55:56 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[08-Dec-2024 08:55:56 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[08-Dec-2024 08:55:56 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[08-Dec-2024 08:55:56 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[09-Dec-2024 02:57:52 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[09-Dec-2024 02:57:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[09-Dec-2024 02:57:55 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[09-Dec-2024 02:57:55 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[09-Dec-2024 02:57:55 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[09-Dec-2024 02:57:55 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[09-Dec-2024 02:57:55 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[09-Dec-2024 02:57:55 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[09-Dec-2024 02:57:55 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[09-Dec-2024 02:57:55 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[09-Dec-2024 02:57:55 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[09-Dec-2024 02:57:55 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[09-Dec-2024 02:57:55 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[09-Dec-2024 02:57:55 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[09-Dec-2024 02:57:58 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[09-Dec-2024 02:57:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[09-Dec-2024 02:57:58 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[09-Dec-2024 02:57:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[09-Dec-2024 02:57:58 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[09-Dec-2024 02:57:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[09-Dec-2024 02:57:58 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[09-Dec-2024 02:57:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[09-Dec-2024 02:57:58 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[09-Dec-2024 02:57:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[09-Dec-2024 02:57:58 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[09-Dec-2024 02:57:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[09-Dec-2024 02:57:58 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[09-Dec-2024 02:57:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[13-Dec-2024 11:54:05 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[13-Dec-2024 11:54:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[13-Dec-2024 11:54:12 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[13-Dec-2024 11:54:12 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[13-Dec-2024 11:54:12 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[13-Dec-2024 11:54:12 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[13-Dec-2024 11:54:12 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[13-Dec-2024 11:54:12 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[13-Dec-2024 11:54:12 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[13-Dec-2024 11:54:12 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[13-Dec-2024 11:54:12 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[13-Dec-2024 11:54:12 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[13-Dec-2024 11:54:12 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[13-Dec-2024 11:54:12 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[13-Dec-2024 11:54:14 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[13-Dec-2024 11:54:14 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[13-Dec-2024 11:54:15 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[13-Dec-2024 11:54:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 10
+[13-Dec-2024 11:54:15 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[13-Dec-2024 11:54:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 13
+[13-Dec-2024 11:54:15 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[13-Dec-2024 11:54:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 14
+[13-Dec-2024 11:54:15 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[13-Dec-2024 11:54:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 15
+[13-Dec-2024 11:54:15 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[13-Dec-2024 11:54:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 16
+[13-Dec-2024 11:54:15 UTC] PHP Warning:  Undefined array key "comments_special_instructions" in /home/tutortui/public_html/public/students/signup-student.php on line 18
+[13-Dec-2024 11:54:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/tutortui/public_html/public/students/signup-student.php on line 18

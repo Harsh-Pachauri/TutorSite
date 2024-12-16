@@ -1,0 +1,459 @@
+Knowledge Transfer (KT) Document 
+
+
+Project Name: Tutor Tuition
+
+Project URL:  https://tutor-tuition.com/
+
+Project Overview:
+
+Purpose: TutorTuition is designed to connect students with qualified tutors for a variety of educational services, including offline and online coaching (batch and personalized), home tuitions, and free trial classes.
+
+Primary Users: 
+
+Students: Seeking tuition services tailored to their learning needs.
+
+Tutors: Looking for teaching opportunities, hassle-free connections to students, and a fair payment system.
+
+Tech Stack:
+Backend: PHP and MySQL for data handling and server-side operations.
+Frontend: HTML, Tailwind CSS and Bootstrap for responsive design and UI, with JavaScript for dynamic interactions.
+
+
+
+
+
+
+
+
+Project Structure
+
+public_html
+├── public
+│   ├── admin
+│   │   ├── delete-allocation.php
+│   │   ├── delete.php
+│   │   ├── edit-profile.php
+│   │   ├── error_log
+│   │   ├── index.php
+│   │   ├── login-admin.php
+│   │   ├── login-error.php
+│   │   ├── student-details.php
+│   │   ├── tutor-details.php
+│   │   ├── update-price.php
+│   │   ├── update-status.php
+│   │   ├── update-student.php
+│   │   ├── update-tutor.php
+│   │   ├── view-students.php
+│   │   └── view-tutors.php
+│   ├── css
+│   │   └── style.css
+│   ├── extras
+│   │   └── login.php
+│   ├── images
+│   ├── students
+│   │   ├── signup-student.php
+│   │   ├── thank-you.php
+│   │   ├── error_log
+│   │   └── extras
+│   │       ├── edit-profile.php
+│   │       ├── index.php
+│   │       ├── login-student.php
+│   │       ├── tutor-details.php
+│   │       └── view-tutors.php
+│   ├── tutors
+│   │   ├── signup-tutor.php
+│   │   ├── thank-you.php
+│   │   ├── error_log.php
+│   │   └── extras
+│   │       ├── edit-profile.php
+│   │       ├── index.php
+│   │       ├── login-tutor.php
+│   │       ├── tutor-details.php
+│   │       └── view-tutors.php
+│   └── logout.php
+├── server
+│   ├── admin
+│   │   ├── login-admin.php
+│   │   └── login-error.php
+│   ├── extras
+│   │   ├── student
+│   │   │   ├── login-student.php
+│   │   │   └── login-error.php 
+│   │   └── tutor
+│   │       ├── login-tutor.php
+│   │       └── login-error.php
+│   ├── config.php
+│   └── routes.php
+├── index.php
+└── notes.php
+
+
+
+
+
+
+
+
+Database Structure
+
+Database Name: tutor_tuition
+
+Tables:
+admins
+students
+teacher_allocations
+tutors
+tutor_subjects
+
+1. admins:
+id:
+Data Type: int
+Primary Key: Yes
+Description: This column uniquely identifies each record in the admin table.
+Attributes: The AUTO_INCREMENT attribute is used, so each new record will automatically get a unique ID.
+Constraints: Cannot be NULL.
+email:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the email address for each admin user, which should be unique to ensure distinct admin accounts.
+Constraints: Cannot be NULL, meaning each admin must have a valid email.
+password:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the password hash for each admin account. The actual password should not be stored directly; instead, store a securely hashed version for security.
+Constraints: Cannot be NULL.
+role:
+Data Type: (Data type needs clarification; likely varchar or int for role identifiers)
+Description: Represents the role of the admin user, which might determine their access level or permissions within the system.
+Constraints: Typically, this should not be NULL, as each admin should have an assigned role.
+This admin table ensures a secure and organized way to manage admin users with unique IDs, emails, and passwords, and assigns roles to manage access control within the system.
+
+2. students
+id:
+Data Type: int
+Primary Key: Yes
+Description: Unique identifier for each student record.
+Attributes: AUTO_INCREMENT, meaning each new record will automatically be assigned a unique ID.
+Constraints: Cannot be NULL.
+full_name:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the full name of the student.
+Constraints: Cannot be NULL.
+guardian_name:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the name of the student’s guardian.
+Constraints: Optional; can be NULL.
+gender:
+Data Type: varchar(10)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the student’s gender, typically with values like "Male," "Female," etc.
+Constraints: Optional; can be NULL.
+class_course:
+Data Type: varchar(100)
+Collation: utf8mb4_0900_ai_ci
+Description: Represents the class or course in which the student is enrolled.
+Constraints: Optional; can be NULL.
+medium:
+Data Type: varchar(100)
+Collation: utf8mb4_0900_ai_ci
+Description: Specifies the medium of instruction, e.g., "English" or "Hindi".
+Constraints: Optional; can be NULL.
+contact_number:
+Data Type: varchar(15)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the contact number for the student or guardian.
+Constraints: Optional; can be NULL.
+email:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the student’s email address, which should ideally be unique.
+Constraints: Optional; can be NULL.
+address:
+Data Type: text
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the address of the student.
+Constraints: Optional; can be NULL.
+comments_special_instructions:
+Data Type: text
+Collation: utf8mb4_0900_ai_ci
+Description: Holds any special instructions or comments related to the student’s needs.
+Constraints: Optional; can be NULL.
+role:
+Data Type: enum('admin', 'tutor', 'student')
+Collation: utf8mb4_0900_ai_ci
+Description: Indicates the role of the user; in this table, the default value is "student".
+Default Value: student
+Constraints: Cannot be NULL.
+status:
+Data Type: varchar(50)
+Collation: utf8mb4_0900_ai_ci
+Description: Represents the current status of the student, such as "not contacted" or "enrolled".
+Default Value: not contacted
+Constraints: Optional; can be NULL.
+remarks:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Contains additional remarks or notes about the student.
+Constraints: Optional; can be NULL.
+This students table structure provides a comprehensive record for each student, capturing essential personal information, contact details, and relevant academic data. It also allows for role-based data handling and tracking the status and special instructions for each student.
+3. teacher_allocations
+allocation_id:
+Data Type: int
+Primary Key: Yes
+Description: Unique identifier for each teacher allocation record.
+Attributes: AUTO_INCREMENT, meaning each new record automatically receives a unique ID.
+Constraints: Cannot be NULL.
+student_id:
+Data Type: int
+Index: Yes
+Description: Foreign key reference to the id column in the students table, linking each allocation to a specific student.
+Constraints: Cannot be NULL.
+subject:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Specifies the subject assigned to the allocated teacher for the student.
+Constraints: Cannot be NULL.
+allocated_teacher_name:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the name of the teacher allocated to this subject for the student.
+Constraints: Optional; can be NULL.
+allocation_date:
+Data Type: timestamp
+Description: Records the date and time when the allocation was made.
+Default Value: CURRENT_TIMESTAMP
+Attributes: DEFAULT_GENERATED, meaning it auto-generates with the current timestamp if not manually set.
+Constraints: Optional; can be NULL.
+quoted_price:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the agreed or quoted price for the teacher’s service per subject for the student.
+Constraints: Optional; can be NULL.
+preferred_timings:
+Data Type: varchar(100)
+Collation: utf8mb4_0900_ai_ci
+Description: Indicates the preferred time range (in 'from-to' format) for the allocated teaching sessions.
+Constraints: Optional; can be NULL.
+preferred_weekdays:
+Data Type: varchar(100)
+Collation: utf8mb4_0900_ai_ci
+Description: Specifies the preferred days of the week for the teaching sessions (e.g., "Monday, Wednesday, Friday").
+Constraints: Optional; can be NULL.
+The teacher_allocations table enables tracking of subject-specific teacher assignments for each student, including relevant details such as preferred timings, quoted prices, and preferred weekdays, making it essential for managing individualized student-teacher allocations.
+4. tutors
+id:
+Data Type: int
+Primary Key: Yes
+Description: Unique identifier for each tutor record.
+Attributes: AUTO_INCREMENT, meaning each new record will automatically receive a unique ID.
+Constraints: Cannot be NULL.
+full_name:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the full name of the tutor.
+Constraints: Cannot be NULL.
+gender:
+Data Type: varchar(10)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the tutor’s gender, typically as "Male," "Female," etc.
+Constraints: Optional; can be NULL.
+education:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Holds the educational qualifications of the tutor.
+Constraints: Optional; can be NULL.
+experience:
+Data Type: int
+Description: Represents the tutor’s experience in years.
+Constraints: Optional; can be NULL.
+mobile_no:
+Data Type: varchar(15)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the contact number of the tutor.
+Constraints: Optional; can be NULL.
+email:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Holds the tutor’s email address.
+Constraints: Cannot be NULL.
+address:
+Data Type: text
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the address of the tutor.
+Constraints: Optional; can be NULL.
+preferred_distance:
+Data Type: varchar(50)
+Collation: utf8mb4_0900_ai_ci
+Description: Represents the maximum distance the tutor is willing to travel for teaching assignments.
+Constraints: Optional; can be NULL.
+bio:
+Data Type: text
+Collation: utf8mb4_0900_ai_ci
+Description: A brief biography or introduction provided by the tutor.
+Constraints: Optional; can be NULL.
+role:
+Data Type: enum('tutor')
+Collation: utf8mb4_0900_ai_ci
+Description: Specifies the role, fixed to "tutor" in this table.
+Default Value: tutor
+Constraints: Cannot be NULL.
+status:
+Data Type: varchar(50)
+Collation: utf8mb4_0900_ai_ci
+Description: Indicates the current status of the tutor, such as "not contacted" or "approved."
+Default Value: not contacted
+Constraints: Optional; can be NULL.
+comments:
+Data Type: text
+Collation: utf8mb4_0900_ai_ci
+Description: Stores any additional comments or notes related to the tutor.
+Constraints: Optional; can be NULL.
+remarks:
+Data Type: text
+Collation: utf8mb4_0900_ai_ci
+Description: Contains additional remarks or notes about the tutor.
+Constraints: Optional; can be NULL.
+This tutors table provides comprehensive details about each tutor, including contact information, qualifications, experience, and preferences, which helps in managing tutor records effectively within the system.
+5. tutor_subjects
+id:
+Data Type: int
+Primary Key: Yes
+Description: Unique identifier for each tutor-subject record.
+Attributes: AUTO_INCREMENT, meaning each new record will receive a unique ID automatically.
+Constraints: Cannot be NULL.
+tutor_id:
+Data Type: int
+Index: Yes
+Description: References the unique ID of the tutor in the tutors table, establishing a relationship between the tutor and their subjects.
+Constraints: Cannot be NULL.
+subject:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the name of the subject that the tutor is qualified to teach.
+Constraints: Cannot be NULL.
+preferred_timings:
+Data Type: varchar(100)
+Collation: utf8mb4_0900_ai_ci
+Description: Represents the tutor's preferred timings for teaching this subject, typically in a from-to format.
+Constraints: Optional; can be NULL.
+quoted_price:
+Data Type: varchar(255)
+Collation: utf8mb4_0900_ai_ci
+Description: Stores the quoted price for teaching this specific subject.
+Constraints: Optional; can be NULL.
+class_upto:
+Data Type: varchar(10)
+Collation: utf8mb4_0900_ai_ci
+Description: Indicates the highest class/grade level the tutor can teach for this subject (e.g., "10" for 10th grade).
+Constraints: Cannot be NULL.
+medium:
+Data Type: varchar(50)
+Collation: utf8mb4_0900_ai_ci
+Description: Represents the medium of instruction (e.g., "English," "Hindi").
+Constraints: Cannot be NULL.
+This tutor_subjects table details each subject a tutor can teach, along with the tutor’s preferred timings, quoted price, class level, and medium. This structure allows detailed mapping of tutors' subject expertise and specific preferences.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code Overview
+
+index.php
+The main landing page of the website. It serves as the homepage and entry point for TutorTuition.
+notes.php
+Contains project notes and documentation relevant to development, such as comments on code updates, pending tasks, or explanations for team reference.
+
+public/
+Contains all public-facing components, including pages for the admin, students, and tutors.
+
+public/admin/
+Admin-related pages for managing students, tutors, and allocations.
+delete-allocation.php: Allows the admin to delete specific tutor-student allocations.
+delete.php: Enables the admin to remove student or tutor records from the database.
+edit-profile.php: Admin profile editing page to update personal information.
+error_log: Stores error logs for tracking and troubleshooting any admin-related issues.
+index.php: Admin dashboard home page showing a summary of students, tutors, and allocation statistics.
+login-admin.php: Login page for admin users.
+login-error.php: Page displayed when there’s an error in admin login, such as incorrect credentials.
+student-details.php: Displays detailed information for a specific student.
+tutor-details.php: Shows detailed information for a specific tutor.
+update-price.php: Allows the admin to update quoted prices for specific tutor-student allocations.
+update-status.php: Provides a way to update the status of student or tutor records.
+update-student.php: Page for editing and updating student information.
+update-tutor.php: Page for editing and updating tutor information.
+view-students.php: Displays a list of all registered students.
+view-tutors.php: Displays a list of all registered tutors.
+
+public/css/
+Contains CSS files for styling.
+style.css: Primary stylesheet for the website, defining layout, colors, typography, and other visual styles.
+
+public/extras/
+Contains additional login pages, currently unused but preserved for potential future functionality.
+login.php: An additional login page template saved as a backup or for future use cases.
+
+public/images/
+Stores images used across the website, including logos, icons, and media assets for design consistency.
+
+public/students/
+Files related to student-specific interactions.
+signup-student.php: Registration form for students to sign up for services.
+thank-you.php: Thank-you page displayed to students after successful registration.
+error_log: Logs student-related errors for debugging purposes.
+extras/: Contains additional student functionalities, currently inactive.
+edit-profile.php: Profile edit page for students, preserved for future functionality.
+index.php: A secondary home page for students, not currently in use.
+login-student.php: Unused login page for students.
+tutor-details.php: Detailed view of tutors, reserved as a backup or for future integration.
+view-tutors.php: Student view of tutors, currently inactive.
+
+public/tutors/
+Files related to tutor-specific interactions.
+signup-tutor.php: Registration form for tutors to sign up on the platform.
+thank-you.php: Page shown to tutors after successful registration.
+error_log.php: Logs any errors related to tutors.
+extras/: Additional functionalities for tutors, not currently active.
+edit-profile.php: Profile edit page for tutors, preserved for future use.
+index.php: A secondary home page for tutors, not currently used.
+login-tutor.php: Unused login page for tutors.
+tutor-details.php: Detailed view of a tutor, saved as a backup.
+view-tutors.php: Tutors’ view of their profile or other tutors, reserved for potential future use.
+
+public/logout.php
+Handles the logout functionality for all user roles, including students, tutors, and admins.
+
+server/
+Contains backend and server-side logic files.
+
+server/admin/
+Admin login-related server-side files.
+login-admin.php: Handles the login logic for admin users, including credential validation.
+login-error.php: Displays any login errors specific to admin users.
+
+server/extras/
+Additional server-side files for student and tutor login functionality, currently unused but preserved.
+student/
+login-student.php: Unused server-side login handling for students.
+login-error.php: Error handling for student login attempts.
+tutor/
+login-tutor.php: Unused server-side login handling for tutors.
+login-error.php: Error handling for tutor login attempts.
+
+server/config.php
+Contains configuration settings for the entire application, such as database connection details and constants used across the project.
+server/routes.php
+Defines routing rules for requests within the server, directing different URL endpoints to their corresponding backend functionalities.
+

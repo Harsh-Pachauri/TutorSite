@@ -1,0 +1,2 @@
+[21-Sep-2024 12:37:58 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/server/tutor/login-tutor.php on line 22
+[21-Sep-2024 12:37:58 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/tutortui/public_html/server/tutor/login-tutor.php on line 22

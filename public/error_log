@@ -1,0 +1,156 @@
+[21-Sep-2024 07:19:47 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-student.php on line 6
+[21-Sep-2024 07:19:47 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-student.php on line 7
+[21-Sep-2024 07:19:47 UTC] PHP Warning:  Undefined array key "class_course" in /home/tutortui/public_html/public/signup-student.php on line 8
+[21-Sep-2024 07:19:47 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/signup-student.php on line 9
+[21-Sep-2024 07:19:47 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-student.php on line 10
+[21-Sep-2024 07:19:47 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/signup-student.php on line 11
+[21-Sep-2024 07:19:47 UTC] PHP Warning:  Undefined array key "preferred_timings" in /home/tutortui/public_html/public/signup-student.php on line 12
+[21-Sep-2024 07:19:47 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:19:47 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:19:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-student.php:17
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-student.php(17): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-student.php on line 17
+[21-Sep-2024 07:22:13 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-student.php on line 6
+[21-Sep-2024 07:22:13 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-student.php on line 7
+[21-Sep-2024 07:22:13 UTC] PHP Warning:  Undefined array key "class_course" in /home/tutortui/public_html/public/signup-student.php on line 8
+[21-Sep-2024 07:22:13 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/signup-student.php on line 9
+[21-Sep-2024 07:22:13 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-student.php on line 10
+[21-Sep-2024 07:22:13 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/signup-student.php on line 11
+[21-Sep-2024 07:22:13 UTC] PHP Warning:  Undefined array key "preferred_timings" in /home/tutortui/public_html/public/signup-student.php on line 12
+[21-Sep-2024 07:22:13 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:22:13 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:22:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-student.php:17
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-student.php(17): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-student.php on line 17
+[21-Sep-2024 07:29:02 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-student.php on line 6
+[21-Sep-2024 07:29:02 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-student.php on line 7
+[21-Sep-2024 07:29:02 UTC] PHP Warning:  Undefined array key "class_course" in /home/tutortui/public_html/public/signup-student.php on line 8
+[21-Sep-2024 07:29:02 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/signup-student.php on line 9
+[21-Sep-2024 07:29:02 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-student.php on line 10
+[21-Sep-2024 07:29:02 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/signup-student.php on line 11
+[21-Sep-2024 07:29:02 UTC] PHP Warning:  Undefined array key "preferred_timings" in /home/tutortui/public_html/public/signup-student.php on line 12
+[21-Sep-2024 07:29:02 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:29:02 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:29:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-student.php:17
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-student.php(17): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-student.php on line 17
+[21-Sep-2024 07:29:22 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-student.php on line 6
+[21-Sep-2024 07:29:22 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-student.php on line 7
+[21-Sep-2024 07:29:22 UTC] PHP Warning:  Undefined array key "class_course" in /home/tutortui/public_html/public/signup-student.php on line 8
+[21-Sep-2024 07:29:22 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/signup-student.php on line 9
+[21-Sep-2024 07:29:22 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-student.php on line 10
+[21-Sep-2024 07:29:22 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/signup-student.php on line 11
+[21-Sep-2024 07:29:22 UTC] PHP Warning:  Undefined array key "preferred_timings" in /home/tutortui/public_html/public/signup-student.php on line 12
+[21-Sep-2024 07:29:22 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:29:22 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:29:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-student.php:17
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-student.php(17): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-student.php on line 17
+[21-Sep-2024 07:32:13 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-student.php on line 6
+[21-Sep-2024 07:32:13 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-student.php on line 7
+[21-Sep-2024 07:32:13 UTC] PHP Warning:  Undefined array key "class_course" in /home/tutortui/public_html/public/signup-student.php on line 8
+[21-Sep-2024 07:32:13 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/signup-student.php on line 9
+[21-Sep-2024 07:32:13 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-student.php on line 10
+[21-Sep-2024 07:32:13 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/signup-student.php on line 11
+[21-Sep-2024 07:32:13 UTC] PHP Warning:  Undefined array key "preferred_timings" in /home/tutortui/public_html/public/signup-student.php on line 12
+[21-Sep-2024 07:32:13 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:32:13 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:32:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-student.php:17
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-student.php(17): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-student.php on line 17
+[21-Sep-2024 07:32:17 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-tutor.php on line 6
+[21-Sep-2024 07:32:17 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-tutor.php on line 7
+[21-Sep-2024 07:32:17 UTC] PHP Warning:  Undefined array key "education" in /home/tutortui/public_html/public/signup-tutor.php on line 8
+[21-Sep-2024 07:32:17 UTC] PHP Warning:  Undefined array key "subjects" in /home/tutortui/public_html/public/signup-tutor.php on line 9
+[21-Sep-2024 07:32:17 UTC] PHP Warning:  Undefined array key "experience" in /home/tutortui/public_html/public/signup-tutor.php on line 10
+[21-Sep-2024 07:32:17 UTC] PHP Warning:  Undefined array key "mobile_no" in /home/tutortui/public_html/public/signup-tutor.php on line 11
+[21-Sep-2024 07:32:17 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-tutor.php on line 12
+[21-Sep-2024 07:32:17 UTC] PHP Warning:  Undefined array key "bio" in /home/tutortui/public_html/public/signup-tutor.php on line 13
+[21-Sep-2024 07:32:17 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-tutor.php on line 14
+[21-Sep-2024 07:32:17 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-tutor.php on line 14
+[21-Sep-2024 07:32:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-tutor.php:18
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-tutor.php(18): mysqli->prepare('INSERT INTO tut...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-tutor.php on line 18
+[21-Sep-2024 07:34:03 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-student.php on line 6
+[21-Sep-2024 07:34:03 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-student.php on line 7
+[21-Sep-2024 07:34:03 UTC] PHP Warning:  Undefined array key "class_course" in /home/tutortui/public_html/public/signup-student.php on line 8
+[21-Sep-2024 07:34:03 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/signup-student.php on line 9
+[21-Sep-2024 07:34:03 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-student.php on line 10
+[21-Sep-2024 07:34:03 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/signup-student.php on line 11
+[21-Sep-2024 07:34:03 UTC] PHP Warning:  Undefined array key "preferred_timings" in /home/tutortui/public_html/public/signup-student.php on line 12
+[21-Sep-2024 07:34:03 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:34:03 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:34:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-student.php:17
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-student.php(17): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-student.php on line 17
+[21-Sep-2024 07:43:57 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-student.php on line 6
+[21-Sep-2024 07:43:57 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-student.php on line 7
+[21-Sep-2024 07:43:57 UTC] PHP Warning:  Undefined array key "class_course" in /home/tutortui/public_html/public/signup-student.php on line 8
+[21-Sep-2024 07:43:57 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/signup-student.php on line 9
+[21-Sep-2024 07:43:57 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-student.php on line 10
+[21-Sep-2024 07:43:57 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/signup-student.php on line 11
+[21-Sep-2024 07:43:57 UTC] PHP Warning:  Undefined array key "preferred_timings" in /home/tutortui/public_html/public/signup-student.php on line 12
+[21-Sep-2024 07:43:57 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:43:57 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:43:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-student.php:17
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-student.php(17): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-student.php on line 17
+[21-Sep-2024 07:48:59 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-student.php on line 6
+[21-Sep-2024 07:48:59 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-student.php on line 7
+[21-Sep-2024 07:48:59 UTC] PHP Warning:  Undefined array key "class_course" in /home/tutortui/public_html/public/signup-student.php on line 8
+[21-Sep-2024 07:48:59 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/signup-student.php on line 9
+[21-Sep-2024 07:48:59 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-student.php on line 10
+[21-Sep-2024 07:48:59 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/signup-student.php on line 11
+[21-Sep-2024 07:48:59 UTC] PHP Warning:  Undefined array key "preferred_timings" in /home/tutortui/public_html/public/signup-student.php on line 12
+[21-Sep-2024 07:48:59 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:48:59 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 07:48:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-student.php:17
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-student.php(17): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-student.php on line 17
+[21-Sep-2024 07:49:02 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-tutor.php on line 6
+[21-Sep-2024 07:49:02 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-tutor.php on line 7
+[21-Sep-2024 07:49:02 UTC] PHP Warning:  Undefined array key "education" in /home/tutortui/public_html/public/signup-tutor.php on line 8
+[21-Sep-2024 07:49:02 UTC] PHP Warning:  Undefined array key "subjects" in /home/tutortui/public_html/public/signup-tutor.php on line 9
+[21-Sep-2024 07:49:02 UTC] PHP Warning:  Undefined array key "experience" in /home/tutortui/public_html/public/signup-tutor.php on line 10
+[21-Sep-2024 07:49:02 UTC] PHP Warning:  Undefined array key "mobile_no" in /home/tutortui/public_html/public/signup-tutor.php on line 11
+[21-Sep-2024 07:49:02 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-tutor.php on line 12
+[21-Sep-2024 07:49:02 UTC] PHP Warning:  Undefined array key "bio" in /home/tutortui/public_html/public/signup-tutor.php on line 13
+[21-Sep-2024 07:49:02 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-tutor.php on line 14
+[21-Sep-2024 07:49:02 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-tutor.php on line 14
+[21-Sep-2024 07:49:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-tutor.php:18
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-tutor.php(18): mysqli->prepare('INSERT INTO tut...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-tutor.php on line 18
+[21-Sep-2024 08:08:26 UTC] PHP Warning:  Undefined array key "full_name" in /home/tutortui/public_html/public/signup-student.php on line 6
+[21-Sep-2024 08:08:26 UTC] PHP Warning:  Undefined array key "gender" in /home/tutortui/public_html/public/signup-student.php on line 7
+[21-Sep-2024 08:08:26 UTC] PHP Warning:  Undefined array key "class_course" in /home/tutortui/public_html/public/signup-student.php on line 8
+[21-Sep-2024 08:08:26 UTC] PHP Warning:  Undefined array key "contact_number" in /home/tutortui/public_html/public/signup-student.php on line 9
+[21-Sep-2024 08:08:26 UTC] PHP Warning:  Undefined array key "email" in /home/tutortui/public_html/public/signup-student.php on line 10
+[21-Sep-2024 08:08:26 UTC] PHP Warning:  Undefined array key "address" in /home/tutortui/public_html/public/signup-student.php on line 11
+[21-Sep-2024 08:08:26 UTC] PHP Warning:  Undefined array key "preferred_timings" in /home/tutortui/public_html/public/signup-student.php on line 12
+[21-Sep-2024 08:08:26 UTC] PHP Warning:  Undefined array key "password" in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 08:08:26 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/tutortui/public_html/public/signup-student.php on line 13
+[21-Sep-2024 08:08:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/tutortui/public_html/public/signup-student.php:17
+Stack trace:
+#0 /home/tutortui/public_html/public/signup-student.php(17): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
+  thrown in /home/tutortui/public_html/public/signup-student.php on line 17
